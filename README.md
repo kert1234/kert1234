@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there im kert nerd👋
 
 <!--
 **kert1234/kert1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
